@@ -51,6 +51,11 @@ Your task is to determine the user's intent, tag anything relevant, determine th
 to ensure we don't do that - so that we can handle the user's intent in a structured way), then select 
 the right agent for the use case.
 Take the user's prompt and break these down according to the desired schema indicated.
+The things you can help with by delegating to the right agent types are:
+- Anytying related to Miami, surrounding areas, food, etc. (assume if a user is asking about 
+things like food, directions, etc. that they are looking for a local guide in Miami)
+- The React Miami Conference
+- Developer related topics when it comes to building AI agents on top of Agentuity
 `,
 		schema: UserIntentSchema,
 		prompt: userPrompt,
@@ -71,7 +76,7 @@ Take the user's prompt and break these down according to the desired schema indi
 	let agentResponse: string | undefined;
 	switch (agentType) {
 		case "miami": {
-			console.log(`todo ${agentType}`);
+			agentName = "MiamiLocalGuide";
 			break;
 		}
 		case "conference": {
@@ -98,10 +103,10 @@ Take the user's prompt and break these down according to the desired schema indi
 		});
 		agentResponse = result.data.text;
 	} else {
-		agentResponse = `There wasn't a specific agent found that can address the user's request. Next step is to 
-			Get a more detailed request from the user that maps to the supported agents - ask questions to the user related to:
-			miami, conference, agentuity, project.  
-			Do not respond to the user if it is not related to the agent type categories.
+		agentResponse = `
+			There wasn't a specific area I can help with in your request.  I can help with things 
+			related to Miami, the React Miami Conference, and developer related topics 
+			when it comes to building AI agents on top of Agentuity.
 		`;
 	}
 
