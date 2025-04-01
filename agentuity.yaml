@@ -73,3 +73,12 @@ agents:
     name: ConciergeHost
     # The description of the Agent which is editable
     description: The main orchestor of agents
+  - id: agent_8785b1eb0490f48722329bd8c258c06e
+    name: ConferenceExpert
+    description: Specializes in React Miami conference knowledge, tracks schedule, sessions, speakers, and provides recommendations
+  - id: agent_1103150fd090047e82fa86c1af614b81
+    name: MiamiLocalGuide
+    description: Miami-specific recommendations for food, entertainment, transportation with weather awareness and local tips
+  - id: agent_2f779b58c168ef0af9750df0572c4a1d
+    name: DeveloperExperience
+    description: Helps developers understand the system, explains architecture, and provides guidance on extending the platform
