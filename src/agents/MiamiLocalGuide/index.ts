@@ -1,5 +1,5 @@
 import type { AgentRequest, AgentResponse, AgentContext } from "@agentuity/sdk";
-import { google } from "@ai-sdk/google";
+import { perplexity } from "@ai-sdk/perplexity";
 import { generateText } from "ai";
 
 export default async function MiamiLocalGuideAgent(
@@ -18,9 +18,7 @@ export default async function MiamiLocalGuideAgent(
 
 	try {
 		const result = await generateText({
-			model: google("gemini-2.5-pro-exp-03-25", {
-				useSearchGrounding: true,
-			}),
+			model: perplexity("sonar-pro"),
 			system: `
 				You are Miami Local Guide, an AI assistant specializing in Miami, Florida recommendations and information.
 				
@@ -38,35 +36,6 @@ export default async function MiamiLocalGuideAgent(
 				For each response, ALWAYS include the sources of your information as references at the end.
 			`,
 			prompt: prompt,
-			// Enable web search to get real-time information
-			providerOptions: {
-				google: {
-					safetySettings: [
-						{
-							category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
-							threshold: "BLOCK_ONLY_HIGH",
-						},
-						{
-							category: "HARM_CATEGORY_HATE_SPEECH",
-							threshold: "BLOCK_ONLY_HIGH",
-						},
-						{
-							category: "HARM_CATEGORY_HARASSMENT",
-							threshold: "BLOCK_ONLY_HIGH",
-						},
-						{
-							category: "HARM_CATEGORY_DANGEROUS_CONTENT",
-							threshold: "BLOCK_ONLY_HIGH",
-						},
-					],
-					// Using web search for real-time information
-					tools: [
-						{
-							type: "GoogleSearchRetrieval",
-						},
-					],
-				},
-			},
 		});
 
 		ctx.logger.info(
