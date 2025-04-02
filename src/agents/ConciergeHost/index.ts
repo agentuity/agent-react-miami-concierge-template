@@ -4,7 +4,7 @@ import type {
 	AgentContext,
 	RemoteAgent,
 } from "@agentuity/sdk";
-import { generateObject, generateText } from "ai";
+import { generateObject } from "ai";
 import { anthropic } from "@ai-sdk/anthropic";
 import { UserIntentSchema, type ConversationRecord } from "../../lib/types";
 
@@ -80,15 +80,11 @@ things like food, directions, etc. that they are looking for a local guide in Mi
 			break;
 		}
 		case "conference": {
-			console.log(`todo ${agentType}`);
+			agentName = "ConferenceExpert";
 			break;
 		}
 		case "agentuity": {
 			agentName = "DeveloperExperience";
-			break;
-		}
-		case "project": {
-			console.log(`todo ${agentType}`);
 			break;
 		}
 	}

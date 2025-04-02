@@ -1,0 +1,1736 @@
+# https://www.reactmiami.com/ llms-full.txt
+
+## React Miami Conference
+![Background image](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FkMLWJv5njJmuGPzMpfmXV%2F121952dam03056-copy.jpg&w=3840&q=90)
+
+# React Miami
+
+## The Ultimate React Conference in the US
+
+### April 17-18, 2025
+
+[Get Tickets](https://www.reactmiami.com/tickets) [Explore More](https://www.reactmiami.com/about)
+
+![waves](https://www.reactmiami.com/_next/static/media/waves.f158be30.svg)
+
+## useState('Sunshine')
+
+![A woman speaking into a microphone in front of a laptop](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FOHW51JDtn4V9QDBRKcx4c%2F133559dam03206.jpg&w=1920&q=75)
+
+Expert Speakers
+
+![A group of people sitting next to a pool of water](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FUPspLp34slIeVhKqVLLw8%2F12dam02845-enhanced-nr.jpg&w=1920&q=75)
+
+Next-level Networking
+
+![An orange car parked on top of a grass covered rooftop](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fao6EIaM8lDCIP1iDYT4Xj%2F203633dam05511-enhanced-nr.jpg&w=1920&q=75)
+
+An Unforgettable City
+
+![cloud](https://www.reactmiami.com/_next/static/media/pink-cloud.abef6b6a.svg)
+
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Ffe81925275a7eaf4fd79e349d755d045%2Fspeakers.png&w=1920&q=75)
+
+Our speaker lineup is
+
+LIVE
+
+Check out the industry leaders, innovators, and experts who will be joining us in Miami!
+
+[View Speakers](https://www.reactmiami.com/speakers)
+
+![cloud](https://www.reactmiami.com/_next/static/media/pink-cloud.abef6b6a.svg)
+
+## Become a Sponsor
+
+Connect with the Community
+
+and Showcase your Company
+
+![A man standing at a podium with a microphone](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F485a8e0549b991556421c11ddc743895%2F2.png&w=640&q=75)
+
+![A man and a woman holding two glowing balls](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F2469f844b25cae33a91a29342af5f758%2F1.png&w=640&q=75)
+
+![A row of black and silver coffee mugs sitting on top of a counter](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F564754a96317bcb975ab8f6e44ec2135%2F3.png&w=640&q=75)
+
+![A woman giving a peace sign while standing next to a man](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F1f97036466454a9ea5b3865b41cd71f9%2F5.png&w=640&q=75)
+
+![A man holding a cup of coffee standing next to another man](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Feaf0eeb3818ac93890910e3fff925d2d%2F4.png&w=640&q=75)
+
+![Six canisters with the words syntax printed on them](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F399fc25300845efb75b6bb386c62c18e%2F6.png&w=640&q=75)
+
+![A woman standing next to a man in front of a sign](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F3ff3f26859f4e768101f03aff56469e0%2F7.png&w=640&q=75)
+
+![A group of people sitting in chairs in front of a screen](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F23b5c49f5e32aafcf4069ef3873bfec2%2F8.png&w=640&q=75)
+
+![A sign with code on it](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fad8525498a6d96d7a94482a88ae0eb83%2F9.png&w=640&q=75)
+
+![Two men standing in front of a screen](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Faf981b0c0350899397f122707352b62a%2F10.png&w=640&q=75)
+
+![A man standing next to a man holding a bag](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fb19f9063c9d36f31fd5bcfae633fb692%2F11.png&w=640&q=75)
+
+![A yellow tray with some stickers on it](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F4b721628ac0c5e7bba4b8712004839c3%2F12.png&w=640&q=75)
+
+[Learn More](https://www.reactmiami.com/sponsors)
+
+![water](https://www.reactmiami.com/_next/static/media/blue-wave.91416095.svg)
+
+![Madison Kanna](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fd8536dd285f8624c9455255b1a83ca05%2Fmadison-headshot.jpg&w=640&q=75)
+
+Madison Kanna
+
+![Ken Wheeler](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F28cc9704c46c3925a6c4d4bb039938d8%2Freact-miami-welcome.jpg&w=640&q=75)
+
+Ken Wheeler
+
+Meet the MC's!
+
+THIS or THAT: Miami Edition
+
+Madison
+
+Beach / Pool
+
+Parrots / Iguanas
+
+Sunrise / Sunset
+
+Tesla / Lambo
+
+Ken
+
+Beach / Pool
+
+Parrots / Iguanas
+
+Sunrise / Sunset
+
+Tesla / Lambo
+
+Make Your Own!
+
+![water](https://www.reactmiami.com/_next/static/media/blue-wave.91416095.svg)
+
+![Kent C. Dodds's avatar](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1567269493608714241%2F6ACZo99k_400x400.jpg&w=96&q=75)
+
+Kent C. Dodds
+
+@kentcdodds
+
+The FOMO you all felt is warranted and I hope you can make it sometime.
+
+[@MichelleBakels](https://x.com/MichelleBakels) and the rest of the team put so much work into this and the community shows up in a great way.
+
+Thanks again for having me! I love this conference
+
+![Adewale's avatar](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1796462502416470016%2FIvLWS9Hj_400x400.jpg&w=96&q=75)
+
+Adewale
+
+@Ace\_KYD
+
+Had so much fun in Miami but my thoughts are filled with the learnings from the amazing people I got to engage with- sessions, conversations & insights.
+
+I'm full as I just had the best of both worlds & I can't wait to translate it all into something amazing!
+
+![Amanda McDermott's avatar](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F892428489428791296%2FUFuYSMxc_400x400.jpg&w=96&q=75)
+
+Amanda McDermott
+
+@flyingkittans
+
+Miami feels like it's got one of the friendliest, most inclusive tech communities I've come across so far. They're doing some crazy awesome stuff down here. So lucky to be here for @ReactMiamiConf and #MiamiTechWeek!
+
+←→
+
+![waves](https://www.reactmiami.com/_next/static/media/scallop.b5e4514b.svg)
+
+Our 2025 Venue
+
+Hyatt Regency Miami
+
+400 South East Second Avenue
+
+Miami, FL 33131-2197
+
+[Book Here](https://go.hyatt.com/link/v2/eae__eVjMdVCSbjrKfjiM866EvD1D43LlO48w)
+
+![venue](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F26Uqp1bnvETK7acCbccuX%2Fvenue.png&w=1920&q=75)
+
+![waves](https://www.reactmiami.com/_next/static/media/scallop.b5e4514b.svg)
+
+![Opening Party](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FyXShoz8NKQg3BGAUextUX%2Fwill.png&w=828&q=75)![Day 1 Conference Talks](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FlXHkAS6YIvgviVYopuMlH%2Fday1talks.png&w=828&q=75)![Day 2 Conference Talks](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FUpidpT45O7N3Z0iQPfIUT%2Fday2talks.png&w=828&q=75)![Afterparty](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FwkfILdF25fNQM02HeUQot%2Fafterparty.png&w=828&q=75)
+
+## reactMiami.addEventListener
+
+April 16, 2025
+
+### Opening Party
+
+Warm up React Miami by meeting attendees at our Opening Party
+
+April 17, 2025
+
+### Day 1 Conference Talks
+
+Day 1 of full conference talks and sponsor booth expo
+
+April 18, 2025
+
+### Day 2 Conference Talks
+
+Day 2 of talks, sessions, and sponsor activations
+
+April 18, 2025
+
+### Afterparty
+
+Celebrate community and unwind with fellow attendees
+
+Your browser does not support the video tag.
+
+Join us in Miami!
+
+[Get Tickets!](https://www.reactmiami.com/tickets)
+
+## Privacy Policy Overview
+# Privacy Policy
+
+At React Miami, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that are collected and recorded by React Miami and how we use it.
+
+## What is personal data?
+
+Personal data means any information regarding to an identified or identifiable natural person. This includes, for example, your name, phone number, address, and email address.
+
+## What personal data do we collect?
+
+We collect personal data about you from a variety of sources, such as:
+
+### Information we collect directly from you
+
+This is the personal data you provide us when using our Services. For example when you sign up to receive our newsletter, opt in to be added to the delegate list, register to attend an Event, or when you create an account. This type of information may include your name, email address, username, telephone number, date of birth, address, user-generated content, post and other content you submit to our Services, and any other information you provide voluntarily to us. The profile information that you choose to provide to React Miami (or third-party networking application you've opted into during the Event) might be accessible to other attendees of the Event, subject to your settings.
+
+We may use cookies and similar technologies to collect information when you use our online services and interact with our online advertisements. This type of information may include your type of browser or device, details of the web pages you have viewed, links you clicked on, your IP address, sites clicked on before coming to our websites, and any other information you choose to share when using the “Like” functionality on Facebook. For more information on cookies and how to manage them, please see our Cookie Statement.
+
+We may use information from a social sign-on using your Facebook or LinkedIn credentials to create an account or log on. This type of information may include your title, company, interests, and other information you authorize.
+
+### Information we collect via scanning
+
+React Miami provides attendees with a third-party networking application for the purpose of making connections with other attendees. For example, the profile information provided by you to React Miami will be accessible to other attendees of an Event, subject to your settings in the third party networking application.
+
+The QR code scanning functionality on the Event badge is activated by default. You can provide your profile information to other attendees and partners by allowing them to scan the QR code on your Event badge at the Event and you may be able to create a mutual networking connection via an in-app function on the third-party networking application with another attendee or partner. Your data will only be shared with your consent to the sharing of your contact information with an attendee or partner via the third-party networking application. Consent may be revoked at any time.
+
+### Information we collect from other sources
+
+We may collect information from other sources if you have given permission for that information to be shared. For example information from your social media accounts, public databases and marketing companies. This type of information may include your name, postal address, telephone number, email address, household information, consumer and market research data, purchase behavior and preferences, and information about your lifestyle such as your hobbies and interests. The aforementioned processing of personal data may also be based on the legitimate interests of React Miami.
+
+### For which purposes do we use your personal data?
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+- Where we need to perform the Terms and Conditions and provide you with the required Service or information.
+- Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+- Where we need to comply with a legal obligation.
+- Where you have consented to the processing which consent may be revoked at any time.
+- Where you have made the information manifestly public.
+- Where necessary in the public interest.
+- Where necessary to protect your vital interest.
+
+The following purposes are examples of how we may use the personal data we collect:
+
+- Provide access to networking applications, facilitate information sharing with other attendees and partners with your consent and provide you with relevant connections and content during the Event;
+- Determine the popularity of certain sessions and content during an Event;
+- Provide you with Services that you request from us;
+- Communicate regularly with you to inform you about service updates, content, special offers, and advertisements that may be of interest to you;
+- Contact you if this is required to perform our Services;
+- Inform you about changes in our Services and our Platform;
+- Send you an invoice for our Services;
+- Resolve consumer issues and issues with our Services;
+- Improve your customer experience on our websites and Platform;
+- Do research and analysis to maintain, protect, develop and improve our networks and Services;
+- Deliver customized content or advertising such as personalised offers for products and services that may be of interest to you;
+- Connect you with other attendees and React Miami partners during the Event; Participate in our online communities, including our social media channel/pages and blogs;
+- Store your preferences for future interactions and communications from us;
+- Create external marketing & analytics reports;
+- Market our Services and use and distribute footage and photographs in order to highlight your participation in our Services and for other legitimate business purposes;
+- Prevent illegal activities, suspected fraud and potential threats to our network; and
+- Analyse the characteristics of our customers at an aggregated level and customer utilization of our Services in order to understand customer and market needs, to improve our existing Services, to design new Services, and for business development.
+
+### Will we share your personal data with other parties?
+
+We may disclose your personal data to third parties if needed to provide the Services, which third parties will process your personal data in conformance with this Privacy Statement.
+
+We may also disclose your personal data:
+
+- To our affiliates or subsidiaries.
+- If we are legally entitled or required to do so (for example, if required to do so by legal proceedings or for the purposes of detection and prevention of fraud and other crime or as part of a security audit).
+- When we believe in good faith that disclosure is necessary to protect our rights, protect your safety, or the safety of others.
+- If we sell a business or part of a business to another company then the transfer of ownership could include the transfer of your personal data directly related to that business to the purchasing company. We would require the buyer to treat your personal information in accordance with this Privacy Statement.
+- To any third party in order to fulfill the agreement between you and React Miami.
+- To any other third party (for example speakers, sponsoring companies, and other attendees at the Event) with your prior permission to do so.
+
+Your personal data may be transferred, stored, and processed in the United States or any other country in which React Miami (or its affiliates, subcontractors or agents) maintain facilities. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement and applicable data protection law and legislation.
+
+## General Data Protection Regulation (GDPR)
+
+We are a Data Controller of your information.
+
+React Miami legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
+
+- React Miami needs to perform a contract with you
+- You have given React Miami permission to do so
+- Processing your personal information is in React Miami legitimate interests
+- React Miami needs to comply with the law
+
+React Miami will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+- The right to access, update or to delete the information we have on you
+- The right of rectification
+- The right to object
+- The right of restriction
+- The right to data portability
+- The right to withdraw consent
+
+## Log files
+
+React Miami follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+
+## Privacy Policies
+
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on React Miami, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that React Miami has no access to or control over these cookies that are used by third-party advertisers.
+
+## Third Party Privacy Policies
+
+React Miami's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+
+## Children's Information
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+React Miami does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+## Online Privacy Policy Only
+
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in React Miami. This policy is not applicable to any information collected offline or via channels other than this website.
+
+## Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
+
+## React Miami Speakers
+# React Miami Speakers
+
+## A first look at the speakers for React Miami!
+
+[**Jemima Abu** \\
+\\
+Frontend Developer \\
+\\
+Components\\
+\\
+![A woman wearing glasses and a plaid shirt](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F9abab38304c491114a8df914cff9db91%2Fheadshot.jpg&w=640&q=75)\\
+\\
+BORN\\
+\\
+Google Dev Expert\\
+\\
+A11y Certified\\
+\\
+Diversity Advocate\\
+\\
+**I Can't Believe It's Not JS**\\
+\\
+Reducing JavaScript dependency with HTML/CSS alternatives for better performance and accessibility.](https://www.reactmiami.com/speakers/abu) [**Greg Barbosa** \\
+\\
+Director of Innovation and Systems\\
+\\
+React\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fca59eda6efb1214c75ebc3c731848682%2Fgreg-barbosa-profile.jpg&w=640&q=75)\\
+\\
+Avulux\\
+\\
+Tech Leader\\
+\\
+Startup Founder\\
+\\
+Process Engineer\\
+\\
+**Coming Soon**\\
+\\
+Talk coming soon!](https://www.reactmiami.com/speakers/barbosa) [**Aaron Boodman** \\
+\\
+CEO\\
+\\
+Sync Engines\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fe71fbd328d880a2978b395cea80f0f31%2Freact-miami-talk-(1)-copy.png&w=640&q=75)\\
+\\
+Rocicorp\\
+\\
+Web Pioneer\\
+\\
+Sync Expert\\
+\\
+React Day-One\\
+\\
+**Making React Fun Again, with Sync Engines**\\
+\\
+Sync engines restore React's simplicity while enabling instant UI performance and developer joy.](https://www.reactmiami.com/speakers/boodman) [**Jovonne Cameron** \\
+\\
+Software Engineer & Technical Writer\\
+\\
+State\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F4df22a7bd5fddd7e7a889d41c74f59ab%2Fjovonne-c-headshot.jpeg&w=640&q=75)\\
+\\
+Fullstack Dev\\
+\\
+Advocate\\
+\\
+Educator\\
+\\
+Community Builder\\
+\\
+**Avoiding Expensive Mishaps with Effective State Management**\\
+\\
+Learn practical strategies to avoid costly state management mistakes.](https://www.reactmiami.com/speakers/cameron) [**Matias Gonzalez** \\
+\\
+tech lead\\
+\\
+Multiplayer\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F7b79593068dc21fc2b214ba535cfe365%2Fimg7553.jpg&w=640&q=75)\\
+\\
+basement studio\\
+\\
+Design Expert\\
+\\
+TEDx Organizer\\
+\\
+WebGL Enthusiast\\
+\\
+**Multiplayer Experiences with React**\\
+\\
+Create and optimize applications with engaging multiplayer components.](https://www.reactmiami.com/speakers/gonzalez) [**Bree Hall** \\
+\\
+Developer Advocate\\
+\\
+Styling\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F0af20dd8f0a546a2a0145a1b4cab199d%2Fbree-hall-from-react-miami.png&w=640&q=75)\\
+\\
+HubSpot\\
+\\
+Content Creator\\
+\\
+Gaming Enthusiast\\
+\\
+Baker\\
+\\
+**Styles & SASSy: Choosing the Right React Styling Solution**\\
+\\
+Compare styling methods to select optimal solutions for React components.](https://www.reactmiami.com/speakers/hall) [**Mike Hartington** \\
+\\
+Director of DevRel\\
+\\
+TypeScript\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F7e5744ac301f04d32c033a83385a5760%2Fphoto.jpeg&w=640&q=75)\\
+\\
+Nx\\
+\\
+Web Expert\\
+\\
+DevRel Director\\
+\\
+Musician\\
+\\
+**Typescript Is SO SLOW...Or Is It?**\\
+\\
+Keep TypeScript fast at scale with an often overlooked optimization from the docs.](https://www.reactmiami.com/speakers/hartington) [**Henri Helvetica** \\
+\\
+developer comms\\
+\\
+Performance\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F5bfc16efa86656479bd26a8bc9741471%2Fhenri.jpeg&w=640&q=75)\\
+\\
+command-h\\
+\\
+Perf Pro\\
+\\
+Meetup Organizer\\
+\\
+Startup Founder\\
+\\
+**DevTools & The Performance Tab**\\
+\\
+Use DevTools' Performance tab to find hidden bottlenecks and unlock fast websites.](https://www.reactmiami.com/speakers/helvetica) [**Brian Holt** \\
+\\
+Staff Product Manager\\
+\\
+Fullstack\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F4ee586979cfb7b203c2080bd70c8b07e%2Fholt.jpg&w=640&q=75)\\
+\\
+Neon\\
+\\
+Coffee Enthusiast\\
+\\
+Dota Player\\
+\\
+Snowboarder\\
+\\
+**The Upsidedown Stack: React on the Server and Postgres in the Browser**\\
+\\
+Flip traditional architecture using React server components and local databases.](https://www.reactmiami.com/speakers/holt) [**David Khourshid** \\
+\\
+Founder\\
+\\
+State\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fc409d31e3964996e%2Fc3256597e207da919e7a8105e09dd97b%2Fdavid-k-profile-picture.jpg&w=640&q=75)\\
+\\
+Stately AI\\
+\\
+Founder\\
+\\
+State Machines Expert\\
+\\
+Pianist\\
+\\
+**Goodbye, useState**\\
+\\
+Rethinking state management in React 19 with new patterns beyond useState().](https://www.reactmiami.com/speakers/khourshid) [**Brooks Lybrand** \\
+\\
+Developer Relations Manager\\
+\\
+Routing\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fa472a76aa0e84834c292eb514212abf1%2Fheadshot.jpeg&w=640&q=75)\\
+\\
+Shopify\\
+\\
+Dev Educator\\
+\\
+Community Builder\\
+\\
+Web Advocate\\
+\\
+**Why File-based Routing Sucks and Why You Should Use It**\\
+\\
+File-based routing offers simplicity and structure, even with some of its implementation challenges.](https://www.reactmiami.com/speakers/lybrand) [**Isabela McLenachen** \\
+\\
+Lead Software Engineer\\
+\\
+Testing\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F9ea10c83a8654b9064dca4defdc03026%2Fwelcome-to-react-miami.jpg&w=640&q=75)\\
+\\
+Disney\\
+\\
+Design Expert\\
+\\
+Tooling Enthusiast\\
+\\
+Accessibility Champion\\
+\\
+**Automated Visual Regression and Accessibility Testing Made Easy**\\
+\\
+Playwright and Docker enable consistent automated testing across environments.](https://www.reactmiami.com/speakers/mclenachen) [**Dillon Mulroy** \\
+\\
+Software Engineer\\
+\\
+Error Handling\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F7f9a231dff20c5d962211c20b595d269%2Fspeaker-portrait-from-g2i-inc.jpeg&w=640&q=75)\\
+\\
+Vercel\\
+\\
+FP Enthusiast\\
+\\
+Neovim User\\
+\\
+Content Creator\\
+\\
+**Throw Try/Catch in the 🗑️ Level up your React error handling with the Result type**\\
+\\
+Result types provide type-safe error management for more robust React applications.](https://www.reactmiami.com/speakers/mulroy) [**Adam Rackis** \\
+\\
+Senior Software Engineer\\
+\\
+Web Server\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fa1ef62800157083c90f5f020b756a0d9%2Fadam-rackis-profile-picture.jpg&w=640&q=75)\\
+\\
+Spotify\\
+\\
+Industry Veteran\\
+\\
+Air Force Veteran\\
+\\
+Riot Games Alum\\
+\\
+**Serving content on the web: from PHP to RSC—and beyond**\\
+\\
+Evolution of web servers and tools for optimizing user experience.](https://www.reactmiami.com/speakers/rackis) [**Samhitha Rama Prasad** \\
+\\
+Software Engineer II\\
+\\
+Security\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fc5371c40a279ad4ed731ba1eab346176%2Fwelcome-to-react-miami.jpeg&w=640&q=75)\\
+\\
+BlackRock\\
+\\
+STEM Advocate\\
+\\
+Hackathon Mentor\\
+\\
+Artist\\
+\\
+**Building Scalable Access Control Frameworks in React**\\
+\\
+CASL library and custom solutions enable fine-grained access control.](https://www.reactmiami.com/speakers/prasad) [**Abhijeet Prasad** \\
+\\
+Senior Software Engineer\\
+\\
+Debugging\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fc409d31e3964996e%2F79fdc309d6b24d0ad08153a125e823a5%2Freact-miami-sponsorship-prospectus-avatar.png&w=640&q=75)\\
+\\
+Sentry\\
+\\
+OSS Maintainer\\
+\\
+Web Standards Advocate\\
+\\
+Performance Debugger\\
+\\
+**Even Your Components Need a Safety Net: React Error Handling Deep Dive**\\
+\\
+Deep dive into React 19 error handling and debugging enhancements.](https://www.reactmiami.com/speakers/prasad-abhijeet) [**Brandon Roberts** \\
+\\
+Environmental Frameworks with Vite and React\\
+\\
+Runtimes\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F90f10ae23050fc97dc0691458330e04a%2Fbrandon-roberts-avatar.jpg&w=640&q=75)\\
+\\
+Community Builder\\
+\\
+GDE Member\\
+\\
+Technical Writer\\
+\\
+Open Source Maintainer\\
+\\
+**Environmental Frameworks with Vite and React**\\
+\\
+Vite's Environment API enables fullstack development across different runtimes.](https://www.reactmiami.com/speakers/roberts) [**Julissa Rodriguez** \\
+\\
+Tech Lead\\
+\\
+Serverless\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fbb19be9b0dd5896ab7f719c966fbc8b6%2Freact-miami-speaker-headshot.jpg&w=640&q=75)\\
+\\
+Enara Health\\
+\\
+Product Innovator\\
+\\
+Meetup Organizer\\
+\\
+Peru .NET Leader\\
+\\
+**React, Serverless, Terraform: The Dream Team for Fullstack Wizards**\\
+\\
+Learn how to combine React, Serverless, and Terraform to build scalable applications.](https://www.reactmiami.com/speakers/rodriguez) [**Chance Strickland** \\
+\\
+Software Engineer\\
+\\
+React 19\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Ffb37d83d915fb249a632c0fadff808a9%2Freact-miami-welcome-57.jpg&w=640&q=75)\\
+\\
+WorkOS\\
+\\
+Workshop Leader\\
+\\
+Open Source Contributor\\
+\\
+Guitarist\\
+\\
+**Are You Smarter Than a React Component?**\\
+\\
+See how some of your favorite developers' knowledge stacks up against the power of React's new API's.](https://www.reactmiami.com/speakers/strickland) [**Leah Thompson** \\
+\\
+Full Stack Developer\\
+\\
+Inertia.js\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F51ecae229a8875a448e0b0335d59590e%2Fleah-profile-picture.jpg&w=640&q=75)\\
+\\
+Rugged Software\\
+\\
+Career Changer\\
+\\
+Content Creator\\
+\\
+Math Teacher\\
+\\
+**Using React with InertiaJS - Making front end development FAST🚀**\\
+\\
+InertiaJS speeds up front-end development through innovative features.](https://www.reactmiami.com/speakers/thompson) [**Aileen Villanueva Lecuona** \\
+\\
+Senior Engineer\\
+\\
+AI\\
+\\
+![speaker](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Ff6a86131ce91ac1181fd800e4a99b8b5%2Fprivate-v0-chat-output.jpg&w=640&q=75)\\
+\\
+Mentor\\
+\\
+Women Techmaker\\
+\\
+AI Specialist\\
+\\
+Global Speaker\\
+\\
+**WebAI: Building the next user experience in the browser**\\
+\\
+Machine learning models create intelligent browser-based application experiences.](https://www.reactmiami.com/speakers/villanueva)
+
+[Game Show\\
+\\
+![Terminal Feud at React Miami](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fcf1ea2fb11e44fb0c75df93b9e544d55%2Fgcug-txgaaxpf.jpg&w=1920&q=75)\\
+\\
+Game Show\\
+\\
+terminal feud\\
+\\
+@ThePrimeagen\\
+\\
+@teej\_dv\\
+\\
+@thdxr\\
+\\
+@adamdotdev \\
+\\
+@iamdavidhill\\
+\\
+@lizisraad\\
+\\
+Developers answer survey questions while contestants guess which response is most popular. Not based on anything at all.](https://www.reactmiami.com/speakers/terminal)
+
+## React Miami 2025 Schedule
+# Conference Schedule
+
+## Your guide to React Miami 2025 events
+
+## Wednesday, April 16
+
+06:00 pm
+
+Night Swim at CitizenM Worldcenter Rooftop
+
+Opening Party
+
+## Thursday, April 17
+
+08:00 am
+
+Hyatt Regency Miami
+
+Check In and Badge Pick Up
+
+09:00 am
+
+Hyatt Regency Miami
+
+Welcome to React Miami!
+
+[09:10 am\\
+\\
+Hyatt Regency Miami\\
+\\
+The Upsidedown Stack: React on the Server and Postgres in the Browser\\
+\\
+![](https://assets.basehub.com/a177cba3/4ee586979cfb7b203c2080bd70c8b07e/holt.jpg)Brian Holt](https://www.reactmiami.com/speakers/holt)
+
+[09:35 am\\
+\\
+Hyatt Regency Miami\\
+\\
+DevTools & The Performance Tab\\
+\\
+![](https://assets.basehub.com/a177cba3/5bfc16efa86656479bd26a8bc9741471/henri.jpeg)Henri Helvetica](https://www.reactmiami.com/speakers/helvetica)
+
+[10:00 am\\
+\\
+Hyatt Regency Miami\\
+\\
+Throw Try/Catch in the 🗑️ Level up your React error handling with the Result type\\
+\\
+![](https://assets.basehub.com/a177cba3/7f9a231dff20c5d962211c20b595d269/speaker-portrait-from-g2i-inc.jpeg)Dillon Mulroy](https://www.reactmiami.com/speakers/mulroy)
+
+10:25 am
+
+Hyatt Regency Miami
+
+Morning Break
+
+[10:55 am\\
+\\
+Hyatt Regency Miami\\
+\\
+Typescript Is SO SLOW...Or Is It?\\
+\\
+![](https://assets.basehub.com/a177cba3/7e5744ac301f04d32c033a83385a5760/photo.jpeg)Mike Hartington](https://www.reactmiami.com/speakers/hartington)
+
+[11:20 am\\
+\\
+Hyatt Regency Miami\\
+\\
+I Can't Believe It's Not JS\\
+\\
+![A woman wearing glasses and a plaid shirt](https://assets.basehub.com/a177cba3/9abab38304c491114a8df914cff9db91/headshot.jpg)Jemima Abu](https://www.reactmiami.com/speakers/abu)
+
+11:45 am
+
+Hyatt Regency Miami
+
+Coming Soon
+
+12:10 pm
+
+Hyatt Regency Miami
+
+Coming Soon
+
+12:25 pm
+
+Hyatt Regency Miami
+
+Lunch
+
+[01:40 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+Automated Visual Regression and Accessibility Testing Made Easy\\
+\\
+![](https://assets.basehub.com/a177cba3/9ea10c83a8654b9064dca4defdc03026/welcome-to-react-miami.jpg)Isabela McLenachen](https://www.reactmiami.com/speakers/mclenachen)
+
+[02:05 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+Avoiding Expensive Mishaps with Effective State Management\\
+\\
+![](https://assets.basehub.com/a177cba3/4df22a7bd5fddd7e7a889d41c74f59ab/jovonne-c-headshot.jpeg)Jovonne Cameron](https://www.reactmiami.com/speakers/cameron)
+
+02:30 pm
+
+Hyatt Regency Miami
+
+Coming Soon
+
+[02:45 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+React, Serverless, Terraform: The Dream Team for Fullstack Wizards\\
+\\
+![](https://assets.basehub.com/a177cba3/bb19be9b0dd5896ab7f719c966fbc8b6/react-miami-speaker-headshot.jpg)Julissa Rodriguez](https://www.reactmiami.com/speakers/rodriguez)
+
+03:10 pm
+
+Hyatt Regency Miami
+
+Afternoon Break
+
+[03:40 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+The Future of OSS and the Web: A Conversation with Framework Pioneers \*In-Person Only\*\\
+\\
+![OSS Panel Logo](https://assets.basehub.com/a177cba3/5de449a06a553bb3c86fe602e26293c8/sunset.png)Guillermo Rauch, Tom Occhino, Taylor Otwell](https://www.reactmiami.com/speakers//oss-panel)
+
+[04:10 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+Environmental Frameworks with Vite and React\\
+\\
+![](https://assets.basehub.com/a177cba3/90f10ae23050fc97dc0691458330e04a/brandon-roberts-avatar.jpg)Brandon Roberts](https://www.reactmiami.com/speakers/roberts)
+
+[04:35 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+WebAI: Building the next user experience in the browser\\
+\\
+![](https://assets.basehub.com/a177cba3/f6a86131ce91ac1181fd800e4a99b8b5/private-v0-chat-output.jpg)Aileen Villanueva Lecuona](https://www.reactmiami.com/speakers/villanueva)
+
+[05:00 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+Are You Smarter Than a React Component?\\
+\\
+![](https://assets.basehub.com/a177cba3/fb37d83d915fb249a632c0fadff808a9/react-miami-welcome-57.jpg)Chance Strickland](https://www.reactmiami.com/speakers/strickland)
+
+## Friday, April 18
+
+08:00 am
+
+Hyatt Regency Miami
+
+Check In and Badge Pick Up
+
+09:00 am
+
+Hyatt Regency Miami
+
+Kick off Day 2!
+
+[09:15 am\\
+\\
+Hyatt Regency Miami\\
+\\
+Why File-based Routing Sucks and Why You Should Use It\\
+\\
+![](https://assets.basehub.com/a177cba3/a472a76aa0e84834c292eb514212abf1/headshot.jpeg)Brooks Lybrand](https://www.reactmiami.com/speakers/lybrand)
+
+[09:40 am\\
+\\
+Hyatt Regency Miami\\
+\\
+Making React Fun Again, with Sync Engines\\
+\\
+![](https://assets.basehub.com/a177cba3/e71fbd328d880a2978b395cea80f0f31/react-miami-talk-(1)-copy.png)Aaron Boodman](https://www.reactmiami.com/speakers/boodman)
+
+[10:05 am\\
+\\
+Hyatt Regency Miami\\
+\\
+Using React with InertiaJS - Making front end development FAST🚀\\
+\\
+![](https://assets.basehub.com/a177cba3/51ecae229a8875a448e0b0335d59590e/leah-profile-picture.jpg)Leah Thompson](https://www.reactmiami.com/speakers/thompson)
+
+10:30 am
+
+Hyatt Regency Miami
+
+Morning Break
+
+[11:00 am\\
+\\
+Hyatt Regency Miami\\
+\\
+Even Your Components Need a Safety Net: React Error Handling Deep Dive\\
+\\
+![](https://assets.basehub.com/c409d31e3964996e/79fdc309d6b24d0ad08153a125e823a5/react-miami-sponsorship-prospectus-avatar.png)Abhijeet Prasad](https://www.reactmiami.com/speakers/prasad-abhijeet)
+
+[11:15 am\\
+\\
+Hyatt Regency Miami\\
+\\
+Multiplayer Experiences with React\\
+\\
+![](https://assets.basehub.com/a177cba3/7b79593068dc21fc2b214ba535cfe365/img7553.jpg)Matias Gonzalez](https://www.reactmiami.com/speakers/gonzalez)
+
+[11:40 am\\
+\\
+Hyatt Regency Miami\\
+\\
+Styles & SASSy: Choosing the Right React Styling Solution\\
+\\
+![](https://assets.basehub.com/a177cba3/0af20dd8f0a546a2a0145a1b4cab199d/bree-hall-from-react-miami.png)Bree Hall](https://www.reactmiami.com/speakers/hall)
+
+[12:05 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+Building Scalable Access Control Frameworks in React\\
+\\
+![](https://assets.basehub.com/a177cba3/c5371c40a279ad4ed731ba1eab346176/welcome-to-react-miami.jpeg)Samhitha Rama Prasad](https://www.reactmiami.com/speakers/prasad)
+
+12:30 pm
+
+Hyatt Regency Miami
+
+Lunch
+
+01:45 pm
+
+Hyatt Regency Miami
+
+Coming Soon
+
+02:10 pm
+
+Hyatt Regency Miami
+
+Coming Soon
+
+[02:35 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+Goodbye, useState\\
+\\
+![](https://assets.basehub.com/c409d31e3964996e/c3256597e207da919e7a8105e09dd97b/david-k-profile-picture.jpg)David Khourshid](https://www.reactmiami.com/speakers/khourshid)
+
+02:50 pm
+
+Hyatt Regency Miami
+
+Afternoon Break
+
+[03:20 pm\\
+\\
+Hyatt Regency Miami\\
+\\
+Terminal Feud\\
+\\
+![Terminal Feud Logo](https://assets.basehub.com/a177cba3/094a2322ef3af7048c6d02eff25fa13c/terminal-logo.jpg)The Primeagen, Teej, Dax Raad, Adam Elmore, David Hill, Liz Raad](https://www.reactmiami.com/speakers//terminal)
+
+07:00 pm
+
+The Deck at Wynwood Marketplace
+
+Afterparty
+
+## React Miami Conference
+# Developer's Paradise
+
+Learn and connect with 500 React developers from around the world while soaking up the famous Miami sunshine! Discover the latest in our ecosystem and gain skills for building fully comprehensive React applications — from the frontend and beyond.
+
+![A man is playing a game of bean bag toss](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FHfOFAlrohMJQt0xIAAXKV%2F205449dam05515-enhanced-nr.jpg&w=1920&q=75)![A man giving a speech with a microphone](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FxpFt7yu9xaFO3rcUFxc5S%2F125730dam02143.jpg&w=1920&q=75)![A couple of people that are standing in front of a sign](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FByuRXPqlG6zXQDCnOhAkP%2F155405dam02494-enhanced-nr.jpg&w=1920&q=75)![A group of people sitting next to a pool of water](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FbYvJ2uiJ1Gkj09Qr64Oi3%2F12dam02845-enhanced-nr.jpg&w=1920&q=75)![A man sitting in front of a laptop computer](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FPh6jXTFQIdKHtZROgLwUP%2F135036dam03280-enhanced-nr.jpg&w=1920&q=75)![A man in a pink suit is dancing on a stage](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FJx25fTDP5df8aKUkYdt4G%2F163140dam02543-enhanced-nr.jpg&w=1920&q=75)![A group of people standing next to each other](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2FaKHW92GFstRdjTlNk7Xqx%2F130843dam02157.jpg&w=1920&q=75)![A man standing next to a woman holding a drink](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F44FbPo7vchq10cIancPsq%2F220420dam01621-enhanced-nr.jpg&w=1920&q=75)
+
+←→
+
+## Miami's Definitive React Conference
+
+React Miami is more than a conference — it's a community-centered celebration created by developers for developers. Expand your skills, connect with hundreds of React devs, and experience the spirit of the #MiamiTech scene!
+
+### Expert speaker sessions
+
+Learn from expert speakers from around the world about the latest in React and the web ecosystem.
+
+### Community immersion
+
+Further explore Miami by being in the center of the city located right between Downtown and Brickell.
+
+### Next level networking
+
+Meet fellow React developers at our exclusive networking events including our Opening Party and Afterparty!
+
+### 500
+
+Attendees
+
+### 40+
+
+US States Represented
+
+### 20+
+
+Countries Represented
+
+### 100+
+
+Scholarships Issued to Date
+
+## Get Involved!
+
+Volunteer Applications
+
+Applications are now closed
+
+Scholarship Applications
+
+Applications are now closed
+
+## Organizers
+
+![Michelle Bakels](https://assets.basehub.com/a177cba3/628cf7cbadefd6cfb5b54966bb223352/4p0a2445.jpg)
+
+### Michelle Bakels
+
+Program Director, G2i
+
+![Gabe Greenberg](https://assets.basehub.com/a177cba3/c39c0998c5d4f4144edd767626b47203/4p0a2450.jpg)
+
+### Gabe Greenberg
+
+CEO & Founder, G2i
+
+## 404 Error Page
+# 404
+
+## This page could not be found.
+
+## 2025 Sponsors List
+## Our 2025 Sponsors
+
+[![nx logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fd3d857205be14b9a1a0334a2db16c491%2Fnxfff.png&w=640&q=75)\\
+Nx](https://nx.dev/)
+
+Diamond Sponsor
+
+[![google logo](https://assets.basehub.com/a177cba3/f059af8b669681f3eab31be649477e65/monochromehorizontallockupoptimizedwhite.svg)\\
+\\
+Firebase](https://firebase.google.com/)
+
+Platinum + Afterparty Sponsor
+
+[![vercel logo](https://assets.basehub.com/a177cba3/ad444eaaddf632c8be568cd2f4eb35db/vercel-logotype-light.svg)\\
+\\
+Vercel](https://vercel.com/home)
+
+Ship Sponsor
+
+[![storyblok logo](https://assets.basehub.com/a177cba3/19f1bdedae5d3d4a7ccd1159c5315ec2/sb-logo-white.svg)\\
+Storyblok](https://www.storyblok.com/)
+
+Platinum Sponsor
+
+[![sentry logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fa9262eb7d3070598cd381b67268f770f%2Fsentry-logo-light.png&w=640&q=75)\\
+Sentry](https://sentry.io/welcome/)
+
+Platinum Sponsor
+
+[![cloudflare logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F226cc361903a495033352ab47beb44ec%2Fcf-white-logo.png&w=640&q=75)\\
+Cloudflare](https://www.cloudflare.com/)
+
+Gold Sponsor
+
+[![agentuity logo](https://assets.basehub.com/a177cba3/88782c16143e27b5d7ed5712081b4d4d/white-logo.svg)\\
+Agentuity](https://agentuity.com/)
+
+Gold Sponsor
+
+[![windsurf logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F14bc9e0d273ad518efd2db64f9dc959f%2Fwindsurf-by-codeium-prospectus.png&w=640&q=75)\\
+Windsurf](https://codeium.com/)
+
+Gold Sponsor
+
+[![basement logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F2b8374cd972571f72a556628f197b812%2Fbasement.png&w=640&q=75)\\
+basement studio](https://basement.studio/)
+
+Design Sponsor
+
+[![city logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F26f20c2f754f7add980505359b92c1bb%2Fcflogo-fullko-wht.png&w=640&q=75)\\
+CITY Furniture](https://www.cityfurniture.com/)
+
+Vibes Sponsor
+
+[![neon logo](https://assets.basehub.com/a177cba3/ce7aaad65e220c0386001ef6aa6c6f68/mono.svg)\\
+Neon](https://neon.tech/)
+
+Afterparty Sponsor
+
+[![knock logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fdfcb172d4c8f7b03414df891457f37e7%2Flogo-white.png&w=640&q=75)\\
+Knock](https://knock.app/)
+
+Silver Sponsor
+
+[![auth0 logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2F8ba448e8937aa00217bdc9f0d07e6cdf%2Fauth0-by-okta-logo-(1).png&w=640&q=75)\\
+Auth0 by Okta](https://auth0.com/)
+
+Silver Sponsor
+
+[![redhat logo](https://www.reactmiami.com/_next/image?url=https%3A%2F%2Fassets.basehub.com%2Fa177cba3%2Fe81f8ce6b4281c83605b8769a1447cfa%2Flogo.png&w=640&q=75)\\
+Red Hat](https://www.redhat.com/en)
+
+Silver Sponsor
+
+[![monogram logo](https://assets.basehub.com/a177cba3/038dd30ebb9b172cb7cdc53a5ddadc5b/wordmark-condensed-dark-mode.svg)\\
+Monogram](https://monogram.io/)
+
+Coffee Sponsor
+
+[![mux logo](https://assets.basehub.com/a177cba3/d2853ab7ace1eb6d436ca5fdc9db5630/mux-logo-large-white.svg)\\
+Mux](https://www.mux.com/)
+
+Live Stream Sponsor
+
+### Community Partners
+
+[![basehub logo](https://assets.basehub.com/a177cba3/f87654c6a19ba435b111a67216eba378/basehub-logotype-complete-(white-over-dark-background).svg)](https://basehub.com/home)
+
+BaseHub
+
+[![init logo](https://assets.basehub.com/a177cba3/4c217e403e2bad782edc40b6ba103ce8/init.svg)](https://www.weareinit.org/)
+
+INIT
+
+[![viata logo](https://assets.basehub.com/a177cba3/2150c405c39beb84d8fe46ce770343ef/g2i-react-miami-logo.svg)](https://viata.ai/)
+
+Viata
+
+[![mandarin3d logo](https://assets.basehub.com/a177cba3/ed4186524089138d6582771463f8f918/mandarin-3d-logs-and-wordmarks.svg)](https://mandarin3d.com/)
+
+Mandarin 3D
+
+## React Miami Tickets
+# Secure Your Ticket!
+
+## Your all access pass to the ultimate conference for React developers
+
+April 17-18, 2025 • Hyatt Regency Miami
+
+### What to Expect:
+
+- 25+ talks from expert speakers
+- Opening Party to meet attendees
+- Afterparty conference finale
+- Lunch, light breakfast, snack breaks, and all-day coffee
+- An unforgettable time with the React community in Miami
+
+$549
+
+[Purchase Ticket](https://tickets.joinshowup.io/event/react-miami-cvtt16)
+
+## Ticket Schedule
+
+### $399
+
+Sep 3
+
+Midnight
+
+### $449
+
+Oct 19
+
+Sunrise
+
+### $499
+
+Jan 14
+
+Noon
+
+### $549
+
+On Sale
+
+Sunset
+
+## Samhitha Rama Prasad
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Samhitha Rama Prasad](https://assets.basehub.com/a177cba3/c5371c40a279ad4ed731ba1eab346176/welcome-to-react-miami.jpeg)
+
+# Samhitha Rama Prasad
+
+Software Engineer II
+
+BlackRock
+
+STEM Advocate
+
+Hackathon Mentor
+
+Artist
+
+## About
+
+Samhitha is a full-stack developer at BlackRock, currently leading the UI architecture for the second generation of a high-scale investment management application. She is a University of Southern California alumna with a Master’s degree in CS.
+
+Passionate about youth education and empowering women in STEM, Samhitha advocates for these causes through panel discussions, coding workshops and teaching. She serves as a hackathon mentor and judge, helping young developers refine their skills, and is also a contributor to freeCodeCamp. Outside of work, she loves to paint and has been doing it for over 20 years now.
+
+Security
+
+## Building Scalable Access Control Frameworks in React
+
+As applications scale in complexity, managing user permissions becomes a growing challenge. Without a structured approach, permissions quickly become a tangled mess of if-else statements, leading to poor maintainability and scalability.
+
+While Role-Based Access Control (RBAC) provides a strong starting point for managing user access, it is not recommended by OWASP and may not offer the level of granularity needed as your app evolves. In this session, we’ll explore two practical approaches to building scalable permissions systems in React.
+
+First, I’ll introduce CASL, a popular ABAC library that simplifies fine-grained access control. Then, I’ll guide you through building a custom permissions system, tailored to your app’s needs. Throughout the session, I'll conduct detailed code walkthroughs for both approaches, covering key concepts like state management, custom hooks, and caching/conditional queries using Redux Toolkit.
+
+By the end, you'll have the tools to implement a clean and scalable permission systems in React, whether using a pre-built solution or building your own.
+
+## Brooks Lybrand Talk
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Brooks Lybrand](https://assets.basehub.com/a177cba3/a472a76aa0e84834c292eb514212abf1/headshot.jpeg)
+
+# Brooks Lybrand
+
+Developer Relations Manager
+
+Shopify
+
+Dev Educator
+
+Community Builder
+
+Web Advocate
+
+## About
+
+Brooks is the Developer Relations Manager for the Remix team at Shopify.
+
+Starting with a career in Data Science, Brooks quickly fell into web development because it was the best way to connect people to the tools he was building. From complex simulations to grocery stores, he has always cared about building products that give people the information they need to make a good decision.
+
+Brooks also cares deeply about educating and building communities in a way that is approachable to people at every skill level, but doesn't leave theme there.
+
+As Dev Rel for the Remix team, Brooks is able to influence the direction of Remix and React Router to be the tool he needed when he first started. He also gets to support the Remix community by ensuring it is a welcoming place where developers can flourish.
+
+Routing
+
+## Why File-based Routing Sucks and Why You Should Use It
+
+File-based routing sucks. Or maybe the Remix team just sucks at coming up with good conventions. The v2 "flat routes" were supposed to make things better, yet time and time again it is cited as the reason people give up on the framework. Looking around at the landscape, there doesn't seem to be a single file-based routing system that is universally liked. Even Next.js's App Router isn't without it's critics. In this talk we will explore why every convention kind of sucks, what we've done about that with React Router, and why you should probably still use file-based routing.
+
+## Web Performance Insights
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Henri Helvetica](https://assets.basehub.com/a177cba3/5bfc16efa86656479bd26a8bc9741471/henri.jpeg)
+
+# Henri Helvetica
+
+developer comms
+
+command-h
+
+Perf Pro
+
+Meetup Organizer
+
+Startup Founder
+
+## About
+
+Henri is a developer who turned his interests to a passionate mix of site performance engineering,  pinches of user experience and what is best known as the platform. He can also be found contributing back to the community as he presides over leading a few modern development meetups, helping curate community events or volunteering his time for lunch and learns with an emphasis on literacy. This led to him launching a little \*start-up\* he's calling **command-h**. **.** When not reading the deluge of daily research docs and case studies, streaming, or profiling sites in his favourite tool, Henri can be found focusing training and running the fastest 5k possible (surprise surprise), encouraging a healthy lifestyle and sharing it all via #devsWhoRun.
+
+Performance
+
+## DevTools & The Performance Tab
+
+“Firebug basically exists for two reasons: one is to show what's going on on your page when it loads, the other is to show you what happens after the page loads”. Firebug, the original devtools, was seen as a big step in website debugging. In fact, it was called "web development evolved". The evolution of the web eventually required an evolution in debugging and ultimately, advancements in browser devtools. We moved from the ability to observe what happens during, and after a page load, to determining user experience as well as render blocking interactions.
+
+“DevTools & The Performance Tab” is a presentation about how browser devtools provide a powerful ability to debug, specifically with web performance in mind.
+
+## Web Server Insights
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Adam Rackis](https://assets.basehub.com/a177cba3/a1ef62800157083c90f5f020b756a0d9/adam-rackis-profile-picture.jpg)
+
+# Adam Rackis
+
+Senior Software Engineer
+
+Spotify
+
+Industry Veteran
+
+Air Force Veteran
+
+Riot Games Alum
+
+## About
+
+After a brief stint in the Air Force, Adam began his career as a software developer for a small company in Oklahoma City. In the more than decade since, he’s worked in a wide variety of industries, from startups, to gaming at Riot Games. He’s currently a senior software engineer at Spotify, working on the Spotify for Artists site.
+
+Web Server
+
+## Serving content on the web: from PHP to RSC—and beyond
+
+The role of the web server has changed a lot over the last few generations of web development tooling. We'll look at how, and why it matters.
+
+We'll talk about where web applications can request data from, how that data are sent to the browser, and how these things can affect the performance your end user sees. We'll talk about network latency, round trips, CDNs, and how modern tools like Next, Remix and TanStack Start can empower you to create the best possible experience for your users—if you use them right.
+
+## Dillon Mulroy
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Dillon Mulroy](https://assets.basehub.com/a177cba3/7f9a231dff20c5d962211c20b595d269/speaker-portrait-from-g2i-inc.jpeg)
+
+# Dillon Mulroy
+
+Software Engineer
+
+Vercel
+
+FP Enthusiast
+
+Neovim User
+
+Content Creator
+
+## About
+
+Dillon is a software engineer @ Vercel and has a decade of experience working primarily in the JavaScript and TypeScript ecosystem(s). He is an enthusiast about functional programming and cares deeply about building reliable, maintainable, and scalable software on both a technical and organization basis. He enjoys sharing and teaching his interests in software to others through mediums such as Twitch and Youtube. He also uses Neovim, btw.
+
+Error Handling
+
+## Throw Try/Catch in the 🗑️ Level up your React error handling with the Result type
+
+Tired of guessing if that imported function throws, or maybe you’re losing sleep from being paged for an unhanded promise rejection at 2am? Error handling is insidiously difficult to get right in React and TypeScript.
+
+This talk introduces the Result type - a simple, powerful, and pragmatic game-changer for managing errors in React applications. We'll explore how to leverage Result types in conjunction with React's Error & Suspense Boundaries to create more robust, type-safe, and maintainable code.
+
+Say goodbye to unexpected crashes and hello to graceful, typed, and exhaustive error management that your future self (and your team) will thank you for.
+
+## Bree Hall's React Talk
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Bree Hall](https://assets.basehub.com/a177cba3/0af20dd8f0a546a2a0145a1b4cab199d/bree-hall-from-react-miami.png)
+
+# Bree Hall
+
+Developer Advocate
+
+HubSpot
+
+Content Creator
+
+Gaming Enthusiast
+
+Baker
+
+## About
+
+Bree is a frontend Software Engineer turned Developer Advocate at HubSpot. She has a passion for coding and making technology more accessible to everyone. Bree creates technical content to help developers create and build autonomously. When she isn't working for the Developer Advocacy team at HubSpot, you can find her playing video games, baking, or traveling to magical destinations.
+
+Styling
+
+## Styles & SASSy: Choosing the Right React Styling Solution
+
+Choosing the right styling approach for React components can feel overwhelming, with options like Sass, CSS Modules, Styled Components, and utility-first libraries each offering unique benefits.
+
+In this talk, we’ll break down these styling methods, examining their strengths and limitations with practical examples. You’ll gain performance insights and real-world applications, empowering you to select the best solution for a flexible, maintainable, and organized codebase.
+
+Ideal for React developers at any level, this session will help you style your components with confidence.
+
+## Brian Holt's Insights
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Brian Holt](https://assets.basehub.com/a177cba3/4ee586979cfb7b203c2080bd70c8b07e/holt.jpg)
+
+# Brian Holt
+
+Staff Product Manager
+
+Neon
+
+Coffee Enthusiast
+
+Dota Player
+
+Snowboarder
+
+## About
+
+Brian Holt currently serves as a staff product manager at Neon, bringing his robust experience in JavaScript engineering to the product. With a rich background that includes being a JavaScript engineer and PM at tech giants like Netflix, Stripe, Snowflake, LinkedIn, Microsoft, and Reddit, Brian has a keen eye for developer experience and cloud services.
+
+Beyond the office, Brian is probably drinking coffee or beer, playing Dota 2 poorly, snowboarding anywhere he can, and playing with his son and dog in Sacramento.
+
+Fullstack
+
+## The Upsidedown Stack: React on the Server and Postgres in the Browser
+
+The full stack is now the upsidedown stack. We are habituated to the traditional architecture of a frontend app making an API request to a backend server, which makes a request to a database. At minimum, you have multiple round trips of requests adding hundreds of milliseconds, if not whole seconds.
+
+With recent developments in React with server components and with databases with local-first tools like pglite, you can flip the full stack upsidedown and no longer be limited network latency!
+
+## Jemima Abu's Talk
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Jemima Abu](https://assets.basehub.com/a177cba3/9abab38304c491114a8df914cff9db91/headshot.jpg)
+
+# Jemima Abu
+
+Frontend Developer
+
+BORN
+
+Google Dev Expert
+
+A11y Certified
+
+Diversity Advocate
+
+## About
+
+Jemima Abu is a self-taught Front End Developer, Google Developer Expert in Web Technologies and Certified Professional in Accessibility Core Competencies. She is a strong advocate for diversity and intersectionality in technology and accessibility in web development.
+
+Components
+
+## I Can't Believe It's Not JS
+
+When it comes to building interactive features on a webpage, JavaScript is usually the way to go. However, with great JavaScript dependencies comes great website instability. Even a minor undefined element can cause your entire webpage to crash. That’s where going back to the basics come in. Thanks to modern Web APIs, it’s now possible to reduce JavaScript dependency on a website by swapping out JS components for their native HTML element or CSS feature counterparts.
+
+In this talk, we’ll take a look at how to use HTML and CSS to build simpler alternatives to popular JavaScript components such as accordions, modals, scroll transitions, carousels etc. We’ll also take a look at the performance and accessibility benefits and real life applications and use-cases of these components.
+
+## Chance Strickland
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Chance Strickland](https://assets.basehub.com/a177cba3/fb37d83d915fb249a632c0fadff808a9/react-miami-welcome-57.jpg)
+
+# Chance Strickland
+
+Software Engineer
+
+WorkOS
+
+Workshop Leader
+
+Open Source Contributor
+
+Guitarist
+
+## About
+
+Chance Strickland is a software engineer with years of experience working on some of the most widely used React projects on the web, including Radix UI, React Router, and Remix. He has taught developers at top tech companies while leading workshops at React Training. Outside of work he enjoys cooking for friends, playing guitar, and surfing at home in sunny San Diego.
+
+React 19
+
+## Are You Smarter Than a React Component?
+
+People are (usually) pretty smart, but are they as smart as a component? With React 19, it’s an open question and we’re here to find out. We’ll talk to some of your favorite developers and see how their knowledge stacks up against the power of React's new APIs, and explore their many benefits in the process.
+
+## React and Serverless
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Julissa Rodriguez](https://assets.basehub.com/a177cba3/bb19be9b0dd5896ab7f719c966fbc8b6/react-miami-speaker-headshot.jpg)
+
+# Julissa Rodriguez
+
+Tech Lead
+
+Enara Health
+
+Product Innovator
+
+Meetup Organizer
+
+Peru .NET Leader
+
+## About
+
+Passionate about developing technology products that enhance people's experiences as customers of various services, such as healthcare and education. Julissa enjoys learning new things and sharing my knowledge through active involvement in various tech communities, particularly in Peru .NET Development, where Julissa co-founded and organizes meetups focused on both Hard-Skills and Soft-Skills topics. Currently, Julissa holds the position of Tech Lead at Enara Health.
+
+Serverless
+
+## React, Serverless, Terraform: The Dream Team for Fullstack Wizards
+
+In this talk, we’ll explore how to combine React with Serverless services (like AWS Lambda) and Terraform to build scalable fullstack applications without worrying about infrastructure management. I’ll demonstrate how to integrate React for the frontend, Serverless for the backend, and Terraform for automating and managing infrastructure. Whether you’re a fullstack developer or just starting with infrastructure automation, this talk will give you practical insights into scaling your applications effectively, including a live demo to showcase the concepts in action.
+
+## Brandon Roberts' Talk
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Brandon Roberts](https://assets.basehub.com/a177cba3/90f10ae23050fc97dc0691458330e04a/brandon-roberts-avatar.jpg)
+
+# Brandon Roberts
+
+Environmental Frameworks with Vite and React
+
+Community Builder
+
+GDE Member
+
+Technical Writer
+
+Open Source Maintainer
+
+## About
+
+Brandon is an OSS Advocate, focused on community engagement, content creation, and collaboration. He enjoys learning new things, helping other developers be successful, speaking at conferences, and contributing to open source. He is a GDE, technical writer, maintainer of the NgRx project, and creator of the AnalogJS meta-framework.
+
+Runtimes
+
+## Environmental Frameworks with Vite and React
+
+Vite is the new de-facto tool for building for the web. Vite has also embraced building for environments beyond the web. Vite has introduced a new Environment API that enables developers to build fullstack supporting different runtimes from a single Vite plugin. This talk introduces the new Environment API, the motivation, and how it enables developers and framework authors to integrate ecosystems.
+
+## InertiaJS Insights
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Leah Thompson](https://assets.basehub.com/a177cba3/51ecae229a8875a448e0b0335d59590e/leah-profile-picture.jpg)
+
+# Leah Thompson
+
+Full Stack Developer
+
+Rugged Software
+
+Career Changer
+
+Content Creator
+
+Math Teacher
+
+## About
+
+Leah Thompson is a former high school math teacher who now works as a web developer. She’s also a technical content creator with a focus on React, JavaScript, and Laravel. As a former teacher, she is extremely passionate about educating and helping other career changers get into tech.
+
+Inertia.js
+
+## Using React with InertiaJS - Making front end development FAST🚀
+
+You might be asking yourself, what even is InertiaJS? And how could it possibly make front-end development faster? Well lucky for you, this talk will cover what Inertia is, the benefits of using it, and new features offered in Inertia 2.0. As well as how using it can significantly speed up the development process.
+
+## Isabela McLenachen
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Isabela McLenachen](https://assets.basehub.com/a177cba3/9ea10c83a8654b9064dca4defdc03026/welcome-to-react-miami.jpg)
+
+# Isabela McLenachen
+
+Lead Software Engineer
+
+Disney
+
+Design Expert
+
+Tooling Enthusiast
+
+Accessibility Champion
+
+## About
+
+Isabela loves the intersection of code, design, and tooling, focusing on empowering the community to create beautiful, usable, and accessible products. You can find her on Twitter, posting about mechanical keyboards, plants, and the web.
+
+Testing
+
+## Automated Visual Regression and Accessibility Testing Made Easy
+
+We all know automated testing saves time and catches bugs before they go out to production. But sometimes it feels too complicated, time consuming, and inconsistent to set up.
+
+In this talk, we’ll explore how you can easily create a consistent suite of automated visual regression and accessibility tests, dynamically generated from your site, that run on any local or CICD environment using Playwright and Docker.
+
+By the end, you’ll be able to integrate these tools into your own work stream, saving your team dozens of hours per week just like it has for mine!
+
+## Jovonne Cameron
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Jovonne Cameron](https://assets.basehub.com/a177cba3/4df22a7bd5fddd7e7a889d41c74f59ab/jovonne-c-headshot.jpeg)
+
+# Jovonne Cameron
+
+Software Engineer & Technical Writer
+
+Fullstack Dev
+
+Advocate
+
+Educator
+
+Community Builder
+
+## About
+
+Jovonne is a Software Engineer and Technical Writer dedicated to making tech more accessible to people of color. With expertise in full-stack development and a talent for simplifying complex concepts, she empowers beginners to break into tech with confidence. Jovonne’s mission is to inspire and equip the next generation of diverse innovators through education, advocacy, and community-building.
+
+State
+
+## Avoiding Expensive Mishaps with Effective State Management
+
+React state management can make or break your application—sometimes, quite literally. In this talk, I’ll share hard lessons learned from a small state mistake that turned into a costly production issue.
+
+We’ll explore common pitfalls like excessive re-renders and unmanageable global state, plus practical strategies to avoid them. You’ll leave with tools like Redux, Context API, and useReducer to build scalable, performant React apps and steer clear of expensive mishaps.
+
+## Aaron Boodman - Sync Expert
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Aaron Boodman](https://assets.basehub.com/a177cba3/e71fbd328d880a2978b395cea80f0f31/react-miami-talk-(1)-copy.png)
+
+# Aaron Boodman
+
+CEO
+
+Rocicorp
+
+Web Pioneer
+
+Sync Expert
+
+React Day-One
+
+## About
+
+Aaron Boodman has been a web developer for over 25 years, and has been working on sync on and off since he helped build Google Gears in 2007 (!!).
+
+He fell in love with React the day it launched and has been on a mission to create the matching data layer every since.
+
+He is currently the CEO of Rocicorp, where he leads development of Replicache and Zero: two sync engines that help web developers create really great UIs.
+
+Sync Engines
+
+## Making React Fun Again, with Sync Engines
+
+React won because it was a dramatically more enjoyable way to build UI. But in search of performance, React has accumulated tons of complexity, losing much of its original simple appeal. Sync engines are the fix. They enable absurdly fast – literally instant – UI, but also recapture a lot of the simple joy from React’s first days. Join me to explore several emerging sync engines, and learn how to use them in your next project.
+
+## Matias Gonzalez - Tech Lead
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Matias Gonzalez](https://assets.basehub.com/a177cba3/7b79593068dc21fc2b214ba535cfe365/img7553.jpg)
+
+# Matias Gonzalez
+
+tech lead
+
+basement studio
+
+Design Expert
+
+TEDx Organizer
+
+WebGL Enthusiast
+
+## About
+
+Matias is a graphic designer that shifted into web development. He works as tech lead at basement studio where he blends knowledge from design and development to help creating immersive experiences. He is also passionate about volunteering, currently helping organizing TEDx events. He’s always trying to find room to play and experiment with new technologies, currently obsessed with WebGL
+
+Multiplayer
+
+## Multiplayer Experiences with React
+
+Adding multiplayer components to our applications can be fun and engaging, we’ll dive into examples on how to create and optimize multiplayer applications.
+
+## Greg Barbosa Profile
+[Back to Speakers](https://www.reactmiami.com/speakers)
+
+![Greg Barbosa](https://assets.basehub.com/a177cba3/ca59eda6efb1214c75ebc3c731848682/greg-barbosa-profile.jpg)
+
+# Greg Barbosa
+
+Director of Innovation and Systems
+
+Avulux
+
+Tech Leader
+
+Startup Founder
+
+Process Engineer
+
+## About
+
+Greg leads Tech Stack Planning, Development, and Innovation at Avulux, collaborating with the COO to enhance the company's competitive edge. He provides technical guidance and project management support across departments to improve operational efficiency. Greg also focuses on process reengineering to optimize business workflows.
+
+Before Avulux, he founded Teller, a DTC + CRO agency, and co-founded HelpCarol, an online education platform for baby boomers. He has experience as an iOS developer, project manager, and technical writer, and studied Computer Software Engineering at Florida Atlantic University.
+
+React
+
+## Coming Soon
+
+Talk coming soon
+
