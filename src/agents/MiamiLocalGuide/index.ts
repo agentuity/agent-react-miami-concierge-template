@@ -38,22 +38,7 @@ export default async function MiamiLocalGuideAgent(
 			prompt: prompt,
 		});
 
-		ctx.logger.info(
-			`Generated response with sources: ${result.sources ? `${result.sources.length} sources found` : "No sources found"}`,
-		);
-
-		// Format response with sources
-		let formattedResponse = result.text;
-
-		// Add sources if available
-		if (result.sources && result.sources.length > 0) {
-			formattedResponse = `${formattedResponse}\n\n### Sources:\n`;
-			result.sources.forEach((source, index) => {
-				formattedResponse = `${formattedResponse}${index + 1}. [${source.title || "Source"}](${source.url})\n`;
-			});
-		}
-
-		return resp.text(formattedResponse);
+		return resp.text(result.text);
 	} catch (error) {
 		ctx.logger.error(`Error generating response: ${error}`);
 		return resp.text(
