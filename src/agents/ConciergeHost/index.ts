@@ -30,18 +30,18 @@ export default async function ConciergeHost(
 	const conversation: ConversationRecord = {
 		// Create a unique conversation ID by combining timestamp with a random number
 		conversationId: `${Date.now()}_${Math.floor(Math.random() * 10000)}`,
+		history: [],
 	};
 
 	// Get the past conversation from the KV store for context.
-	// const pastConversation = await ctx.kv.get(
-	// 	"concierge-history",
-	// 	"react-miami-2025-dev-mode",
-	// );
-	// if (pastConversation.exists) {
-	// 	const pastConversationData =
-	// 		pastConversation.data.object<ConversationRecord>();
-	// 	conversation.history = pastConversationData.history || [];
-	// }
+	const pastConversation = await ctx.kv.get(
+		"concierge-history",
+		"react-miami-2025-dev-mode",
+	);
+	if (pastConversation.exists) {
+		const pastConversationData = pastConversation.data.object<string[]>();
+		conversation.history = pastConversationData || [];
+	}
 
 	// Determine user's request and intent
 	const userIntent = await generateObject({
@@ -71,7 +71,15 @@ things like food, directions, etc. that they are looking for a local guide in Mi
 	const agentType = conversation.userIntent.agentType;
 	let agentName: string | undefined;
 	const message = `
+		<USER_INTENT>
 		Here is the user's intent in stringified JSON: ${JSON.stringify(conversation.userIntent)}
+		</USER_INTENT>
+
+		<HISTORY>
+		For past context, here is the history of what the user has asked for. NOTE: only use this to 
+		understand the user, things they care about, etc. Do not use the history to answer the user's question.
+		Here is the history: ${conversation.history?.join("\n")}
+		</HISTORY>
 	`;
 	let agentResponse: string | undefined;
 	switch (agentType) {
@@ -106,33 +114,14 @@ things like food, directions, etc. that they are looking for a local guide in Mi
 		`;
 	}
 
-	// const res = await generateText({
-	// 	model: anthropic("claude-3-7-sonnet-20250219"),
-	// 	system: `${overallSystemPrompt}`,
-	// 	prompt: `
-	// 		You just finished handing off the user's request to the different agents involved in making their Miami trip great.
-
-	// 		The break down of the initial request, user prompt, tags, etc. were:
-	// 		${JSON.stringify(conversation)}
-
-	// 		The response you got from your agents is:
-	// 		${agentResponse || "EMPTY"}
-
-	// 		Please take the agent response and craft a response back to the user that is helpful and clear based
-	// 		on the user's request.
-	// 	`,
-	// });
-
-	const payload = {
-		// conciergeResponse: res.text,
-		agentResponse,
-		...conversation,
-	};
-	payload.history = [...(conversation.history || []), payload];
+	const history = [userPrompt];
+	if (conversation.history) {
+		history.push(...conversation.history);
+	}
 
 	// In a prod app, you'd probably have an ID to identify the conversation.
 	// For now, we're just using a static ID.
-	// await ctx.kv.set("concierge-history", "react-miami-2025-dev-mode", payload);
+	await ctx.kv.set("concierge-history", "react-miami-2025-dev-mode", history);
 
 	return resp.text(agentResponse);
 }

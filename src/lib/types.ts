@@ -21,5 +21,5 @@ export interface ConversationRecord {
 	conciergeResponse?: string;
 	agentResponse?: string;
 	conversationId: string;
-	history?: ConversationRecord[];
+	history?: string[];
 }
