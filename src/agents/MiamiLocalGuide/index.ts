@@ -32,8 +32,6 @@ export default async function MiamiLocalGuideAgent(
 				Always provide specific, actionable information tailored to Miami.
 				When making recommendations, include neighborhood information and local context.
 				Include relevant details like price ranges, accessibility, and cultural significance.
-				
-				For each response, ALWAYS include the sources of your information as references at the end.
 			`,
 			prompt: prompt,
 		});
