@@ -19,7 +19,7 @@ export default async function ConciergeHost(
 	ctx: AgentContext,
 ) {
 	// For now, this agent is only interfaced via plain text.
-	if (req.data.contentType !== "text/plain" && req.data.text.length > 0) {
+	if (req.data.contentType !== "text/plain" || req.data.text.length === 0) {
 		return resp.text("Must be plain text to interact with this agent.");
 	}
 

@@ -8,7 +8,7 @@ export default async function ConferenceExpertAgent(
 	ctx: AgentContext,
 ) {
 	// For now, this agent is only interfaced via plain text.
-	if (req.data.contentType !== "text/plain" && req.data.text.length > 0) {
+	if (req.data.contentType !== "text/plain" || req.data.text.length === 0) {
 		return resp.text(
 			"Please send a plain text message to interact with the Conference Expert.",
 		);
