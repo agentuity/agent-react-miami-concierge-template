@@ -29,22 +29,6 @@ The React Miami Concierge template provides a starting point for building AI-pow
 
 For comprehensive documentation on Agentuity, visit our documentation site at [agentuity.dev](https://agentuity.dev).
 
-## Getting Started
-
-To use this template:
-
-```bash
-# Clone the repository
-git clone https://github.com/agentuity/agent-react-miami-concierge-template.git
-cd agent-react-miami-concierge-template
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please submit a pull request.
