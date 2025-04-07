@@ -14,7 +14,7 @@
 > [!WARNING]  
 > This repository is under heavy development and it is not yet stable or ready for use.
 
-This repository contains a template for building a concierge-style application using React, showcasing integration with Agentuity's agent platform. This template demonstrates how to create a Miami-themed concierge application that can help users with recommendations, bookings, and local information.
+This repository contains a template for building a concierge-style agents using Agentuity, showcasing integration with Agentuity's agent platform. This template demonstrates how to create a Miami-themed concierge application that can help users with recommendations, bookings, and local information.
 
 ## Overview
 
