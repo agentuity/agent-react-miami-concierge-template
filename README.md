@@ -18,12 +18,10 @@ This repository contains a template for building a concierge-style application u
 
 ## Overview
 
-The React Miami Concierge template provides a starting point for building AI-powered concierge applications with:
+The React Miami Concierge template provides a starting point for building AI-powered concierge agents with:
 
-- React-based frontend with a Miami-inspired design
 - Integration with Agentuity's agent platform
 - Example workflows for common concierge tasks
-- Responsive design for mobile and desktop interfaces
 
 ## Documentation
 
