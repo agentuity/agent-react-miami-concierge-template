@@ -132,7 +132,7 @@ export const welcome = (): AgentWelcomeResult => {
 			"Welcome to the React Miami 2025 Concierge! How can I help you today?",
 		prompts: [
 			{
-				data: Buffer.from("What is the weather in Miami?").toString("base64"),
+				data: Buffer.from("Where should I go for dinner in Miami, tonight?").toString("base64"),
 				contentType: "text/plain",
 			},
 			{
