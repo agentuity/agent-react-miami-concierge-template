@@ -2,7 +2,7 @@ import type {
 	AgentRequest,
 	AgentResponse,
 	AgentContext,
-	RemoteAgent,
+	AgentWelcomeResult,
 } from "@agentuity/sdk";
 import { generateObject } from "ai";
 import { anthropic } from "@ai-sdk/anthropic";
@@ -125,3 +125,40 @@ things like food, directions, etc. that they are looking for a local guide in Mi
 
 	return resp.text(agentResponse);
 }
+
+export const welcome = (): AgentWelcomeResult => {
+	return {
+		welcome:
+			"Welcome to the React Miami 2025 Concierge! How can I help you today?",
+		prompts: [
+			{
+				data: Buffer.from("What is the weather in Miami?").toString("base64"),
+				contentType: "text/plain",
+			},
+			{
+				data: "What sessions about React hooks are happening today?",
+				contentType: "text/plain",
+			},
+			{
+				data: "Tell me more about [Speaker Name]'s background",
+				contentType: "text/plain",
+			},
+			{
+				data: "I'm hungry and looking for Cuban food near the conference",
+				contentType: "text/plain",
+			},
+			{
+				data: "Help me plan my schedule for tomorrow based on my interests",
+				contentType: "text/plain",
+			},
+			{
+				data: "What is Agentuity all about?",
+				contentType: "text/plain",
+			},
+			{
+				data: "What can I do?",
+				contentType: "text/plain",
+			},
+		],
+	};
+};
