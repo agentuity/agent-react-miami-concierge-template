@@ -68,7 +68,7 @@ things like food, directions, etc. that they are looking for a local guide in Mi
 	};
 
 	// Routes request and intent to appropriate agent
-	const agentType = conversation.userIntent.agentType;
+	const agentType = conversation.userIntent?.agentType;
 	let agentName: string | undefined;
 	const message = `
 		<USER_INTENT>
@@ -132,7 +132,7 @@ export const welcome = (): AgentWelcomeResult => {
 			"Welcome to the React Miami 2025 Concierge! How can I help you today?",
 		prompts: [
 			{
-				data: Buffer.from("Where should I go for dinner in Miami, tonight?").toString("base64"),
+				data: "Where should I go for dinner in Miami, tonight?",
 				contentType: "text/plain",
 			},
 			{
