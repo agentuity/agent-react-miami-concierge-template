@@ -7,9 +7,17 @@ export default async function DeveloperExperienceAgent(
 	resp: AgentResponse,
 	ctx: AgentContext,
 ) {
-	// For now, this agent is only interfaced via plain text.
-	if (req.data.contentType !== "text/plain" || req.data.text.length === 0) {
-		return resp.text("Must be plain text to interact with this agent.");
+	// Handle both plain text and JSON inputs
+	let userPrompt: string;
+	
+	if (req.data.contentType === "text/plain" && req.data.text) {
+		userPrompt = req.data.text;
+	} else if (req.data.contentType === "application/json" && req.data.json) {
+		const jsonData = req.data.json as Record<string, any>;
+		userPrompt = jsonData.prompt;
+		if (!userPrompt) return resp.text("JSON must contain a 'prompt' property.");
+	} else {
+		return resp.text("This agent accepts 'text/plain' or 'application/json' with a prompt field.");
 	}
 
 	// Load the Agentuity documentation
