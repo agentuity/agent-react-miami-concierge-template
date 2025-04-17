@@ -1,4 +1,9 @@
-import type { AgentRequest, AgentResponse, AgentContext } from "@agentuity/sdk";
+import type {
+	AgentRequest,
+	AgentResponse,
+	AgentContext,
+	JsonObject,
+} from "@agentuity/sdk";
 import { perplexity } from "@ai-sdk/perplexity";
 import { generateText } from "ai";
 import { weatherTool } from "../../lib/tools/weatherTool";
@@ -10,15 +15,17 @@ export default async function MiamiLocalGuideAgent(
 ) {
 	// Handle both plain text and JSON inputs
 	let userPrompt: string;
-	
+
 	if (req.data.contentType === "text/plain" && req.data.text) {
 		userPrompt = req.data.text;
 	} else if (req.data.contentType === "application/json" && req.data.json) {
-		const jsonData = req.data.json as Record<string, any>;
-		userPrompt = jsonData.prompt;
+		const jsonData = req.data.json as JsonObject;
+		userPrompt = jsonData.prompt as string;
 		if (!userPrompt) return resp.text("JSON must contain a 'prompt' property.");
 	} else {
-		return resp.text("This agent accepts 'text/plain' or 'application/json' with a prompt field.");
+		return resp.text(
+			"This agent accepts 'text/plain' or 'application/json' with a prompt field.",
+		);
 	}
 
 	const prompt = req.data.text;
@@ -53,7 +60,13 @@ export default async function MiamiLocalGuideAgent(
 			maxSteps: 5,
 		});
 
-		return resp.text(result.text);
+		// make sure we include the sources in the footers
+		const footnotes = result.sources
+			.filter((source) => source.sourceType === "url")
+			.map((source, index) => `[${index + 1}]: ${source.url}`)
+			.join("\n");
+
+		return resp.text(`${result.text}\n\n${footnotes}`);
 	} catch (error) {
 		// Use ctx.logger and ensure the error is logged properly
 		ctx.logger.error(

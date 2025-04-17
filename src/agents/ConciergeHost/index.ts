@@ -3,6 +3,7 @@ import type {
 	AgentResponse,
 	AgentContext,
 	AgentWelcomeResult,
+	JsonObject,
 } from "@agentuity/sdk";
 import { generateObject } from "ai";
 import { anthropic } from "@ai-sdk/anthropic";
@@ -20,15 +21,17 @@ export default async function ConciergeHost(
 ) {
 	// Handle both plain text and JSON inputs
 	let userPrompt: string;
-	
+
 	if (req.data.contentType === "text/plain" && req.data.text) {
 		userPrompt = req.data.text;
 	} else if (req.data.contentType === "application/json" && req.data.json) {
-		const jsonData = req.data.json as Record<string, any>;
-		userPrompt = jsonData.prompt;
+		const jsonData = req.data.json as JsonObject;
+		userPrompt = jsonData.prompt as string;
 		if (!userPrompt) return resp.text("JSON must contain a 'prompt' property.");
 	} else {
-		return resp.text("This agent accepts 'text/plain' or 'application/json' with a prompt field.");
+		return resp.text(
+			"This agent accepts 'text/plain' or 'application/json' with a prompt field.",
+		);
 	}
 
 	// We'll use this to store the conversation history later.
@@ -133,8 +136,29 @@ things like food, directions, etc. that they are looking for a local guide in Mi
 
 export const welcome = (): AgentWelcomeResult => {
 	return {
-		welcome:
-			"Welcome to the React Miami 2025 Concierge! How can I help you today?",
+		welcome: `# Welcome to the React Miami 2025 Concierge
+
+How can I help you today?  I can help you with:
+
+- Miami information
+- React Miami Conference information
+- Getting started with Agentuity
+
+For example:
+
+> Where should I go for dinner in Miami, tonight?
+
+> What sessions about React hooks are happening today?
+
+> Tell me more about [Speaker Name]'s background
+
+> I'm hungry and looking for Cuban food near the conference
+
+> Help me plan my schedule for tomorrow based on my interests
+
+> What is Agentuity all about?
+
+> What's the weather in Miami today?`,
 		prompts: [
 			{
 				data: "Where should I go for dinner in Miami, tonight?",
@@ -145,7 +169,7 @@ export const welcome = (): AgentWelcomeResult => {
 				contentType: "text/plain",
 			},
 			{
-				data: "Tell me more about [Speaker Name]'s background",
+				data: "Tell me more about Dillon Mulroy's background",
 				contentType: "text/plain",
 			},
 			{

@@ -1,4 +1,9 @@
-import type { AgentRequest, AgentResponse, AgentContext } from "@agentuity/sdk";
+import type {
+	AgentRequest,
+	AgentResponse,
+	AgentContext,
+	JsonObject,
+} from "@agentuity/sdk";
 import { anthropic } from "@ai-sdk/anthropic";
 import { generateText } from "ai";
 
@@ -9,15 +14,17 @@ export default async function DeveloperExperienceAgent(
 ) {
 	// Handle both plain text and JSON inputs
 	let userPrompt: string;
-	
+
 	if (req.data.contentType === "text/plain" && req.data.text) {
 		userPrompt = req.data.text;
 	} else if (req.data.contentType === "application/json" && req.data.json) {
-		const jsonData = req.data.json as Record<string, any>;
-		userPrompt = jsonData.prompt;
+		const jsonData = req.data.json as JsonObject;
+		userPrompt = jsonData.prompt as string;
 		if (!userPrompt) return resp.text("JSON must contain a 'prompt' property.");
 	} else {
-		return resp.text("This agent accepts 'text/plain' or 'application/json' with a prompt field.");
+		return resp.text(
+			"This agent accepts 'text/plain' or 'application/json' with a prompt field.",
+		);
 	}
 
 	// Load the Agentuity documentation
