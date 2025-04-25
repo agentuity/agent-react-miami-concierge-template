@@ -16,9 +16,9 @@ export default async function DeveloperExperienceAgent(
 	let userPrompt: string;
 
 	if (req.data.contentType === "text/plain" && req.data.text) {
-		userPrompt = req.data.text;
+		userPrompt = await req.data.text();
 	} else if (req.data.contentType === "application/json" && req.data.json) {
-		const jsonData = req.data.json as JsonObject;
+		const jsonData = (await req.data.json()) as JsonObject;
 		userPrompt = jsonData.prompt as string;
 		if (!userPrompt) return resp.text("JSON must contain a 'prompt' property.");
 	} else {
@@ -36,7 +36,7 @@ export default async function DeveloperExperienceAgent(
 		ctx.logger.error("Failed to load Agentuity documentation: %s", error);
 	}
 
-	const prompt = req.data.text;
+	const prompt = await req.data.text();
 	const result = await generateText({
 		model: anthropic("claude-3-7-sonnet-20250219"),
 		system: `
