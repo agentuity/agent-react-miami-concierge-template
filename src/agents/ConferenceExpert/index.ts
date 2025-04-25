@@ -16,9 +16,9 @@ export default async function ConferenceExpertAgent(
 	let userPrompt: string;
 
 	if (req.data.contentType === "text/plain" && req.data.text) {
-		userPrompt = req.data.text;
+		userPrompt = await req.data.text();
 	} else if (req.data.contentType === "application/json" && req.data.json) {
-		const jsonData = req.data.json as JsonObject;
+		const jsonData = (await req.data.json()) as JsonObject;
 		userPrompt = jsonData.prompt as string;
 		if (!userPrompt) return resp.text("JSON must contain a 'prompt' property.");
 	} else {
@@ -37,7 +37,7 @@ export default async function ConferenceExpertAgent(
 		ctx.logger.error(`Failed to load conference data: ${error}`);
 	}
 
-	const prompt = req.data.text;
+	const prompt = await req.data.text();
 
 	try {
 		const result = await generateText({

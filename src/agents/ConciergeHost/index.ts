@@ -21,11 +21,12 @@ export default async function ConciergeHost(
 ) {
 	// Handle both plain text and JSON inputs
 	let userPrompt: string;
+	console.log(req.data.contentType);
 
 	if (req.data.contentType === "text/plain" && req.data.text) {
-		userPrompt = req.data.text;
+		userPrompt = await req.data.text();
 	} else if (req.data.contentType === "application/json" && req.data.json) {
-		const jsonData = req.data.json as JsonObject;
+		const jsonData = (await req.data.json()) as JsonObject;
 		userPrompt = jsonData.prompt as string;
 		if (!userPrompt) return resp.text("JSON must contain a 'prompt' property.");
 	} else {
@@ -47,7 +48,7 @@ export default async function ConciergeHost(
 		"react-miami-2025-dev-mode",
 	);
 	if (pastConversation.exists) {
-		const pastConversationData = pastConversation.data.object<string[]>();
+		const pastConversationData = await pastConversation.data.object<string[]>();
 		conversation.history = pastConversationData || [];
 	}
 
@@ -113,7 +114,7 @@ things like food, directions, etc. that they are looking for a local guide in Mi
 			data: message,
 			contentType: "text/plain",
 		});
-		agentResponse = result.data.text;
+		agentResponse = await result.data.text();
 	} else {
 		agentResponse = `
 			There wasn't a specific area I can help with in your request.  I can help with things 
