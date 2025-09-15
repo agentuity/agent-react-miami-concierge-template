@@ -1,7 +1,7 @@
 import { runner } from "@agentuity/sdk";
 
-if (!process.env.AGENTUITY_API_KEY) {
-	console.error("\x1b[31m[ERROR] AGENTUITY_API_KEY is not set. This should have been set automatically by the Agentuity CLI or picked up from the .env file.\x1b[0m");
+if (!process.env.AGENTUITY_SDK_KEY) {
+	console.error("\x1b[31m[ERROR] AGENTUITY_SDK_KEY is not set. This should have been set automatically by the Agentuity CLI or picked up from the .env file.\x1b[0m");
 	const cmd = process.env._ || "";
 	if (cmd.endsWith("node")) {
 		console.error(
