@@ -11,6 +11,9 @@
 </div>
 </div>
 
+> **⚠️ DEPRECATED: This is a v0 project.**  
+> For the latest v1 instructions and templates, please visit [agentuity.dev](https://agentuity.dev).
+
 # The React Miami Concierge Demo App
 
 This repository contains a template for building a concierge-style agents using Agentuity, showcasing integration with Agentuity's agent platform. This template demonstrates how to create a Miami-themed concierge application that can help users with recommendations, bookings, and local information.
