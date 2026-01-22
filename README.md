@@ -7,9 +7,10 @@
 <a href="https://github.com/agentuity/agent-react-miami-concierge-template/blob/main/LICENSE.md"><img alt="License" src="https://badgen.now.sh/badge/license/Apache-2.0"></a>
 <a href="https://discord.gg/vtn3hgUfuc"><img alt="Join the community on Discord" src="https://img.shields.io/discord/1332974865371758646.svg?style=flat"></a>
 
- [![Deploy with Agentuity](https://app.agentuity.com/img/deploy.svg)](https://app.agentuity.com/deploy)
+  [![Deploy with Agentuity](https://app.agentuity.com/img/deploy.svg)](https://app.agentuity.com/deploy)
 </div>
-</div>
+
+> **⚠️ DEPRECATED: This is a v0 repository.** This template is no longer maintained. For v1 instructions and the latest Agentuity documentation, please visit [agentuity.dev](https://agentuity.dev).
 
 # The React Miami Concierge Demo App
 
